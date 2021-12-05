@@ -1,4 +1,4 @@
-<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/211121/32108414fe61d225739702fe3b4c0784.png" alt="google-font" border="0"></a>
+<a href="https://github.com/aju001"><img src="https://fontmeme.com/permalink/lMG-20211202-WA0069  alt="google-font" border="0"></a>
 <div align="center">
 
 
@@ -9,7 +9,7 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+SPlRlT+WA+Bot...;Created+by+SPlRlT....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
 <a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
 </p>
@@ -19,7 +19,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/aju001">SPlRlT</a> to make it public
     <br>
        | © |
         Reserved |
